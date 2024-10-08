@@ -1,0 +1,1 @@
+const profilepath = "assets/images/profile.png";
